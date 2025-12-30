@@ -15,6 +15,9 @@ WinDbg Assist 是一款結合 Azure OpenAI 與 WinDbg (`cdb.exe`) 的自動化�
 - **📋 傳統工具集**：提供指令助手、輸出解讀與 Stack Trace 分析等輔助功能。
 - **🔍 .NET 專精**：優化的 SOS 載入邏輯，完美支援 .NET 10 的託管例外診斷。
 
+![AI Autonomous Diagnosis Center Demo](images/demo_success.png)
+*AI 正在自主分析 Access Violation 的當機現場*
+
 ## 🛠️ 環境需求
 
 在使用本工具前，請確保你的電腦已安裝以下組件：
